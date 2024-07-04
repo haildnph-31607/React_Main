@@ -572,35 +572,12 @@
     }
   ],
   "users": [
-    {
-      "email": "berneice.harvey@example.org",
-      "password": "damga1105",
-      "id": 1
-    },
-    {
-      "email": "berneice.harvey@example.org",
-      "password": "asasasas",
-      "id": 2
-    },
-    {
-      "email": "zframi@example.org",
-      "password": "@Damga1105",
-      "id": 3
-    },
-    {
-      "email": "nguyenminhkhong23@gmail.com",
-      "password": "damga1105",
-      "id": 4
-    },
-    {
-      "email": "berneice.harvey@example.org",
-      "password": "damga1105",
-      "id": 5
-    },
+  
     {
       "email": "nguyenminhkhong@gmail.com",
+      "name":"Ngọc Hải",
       "password": "$2a$10$sxPjQ65X7qjtYAWSJastRuBHM8W.uHanwtZ9UZWIKQIWxeeqIAyj.",
-      "id": 6
+      "id": 1
     }
   ]
 }
